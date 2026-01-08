@@ -13,14 +13,13 @@
   Fuera del código, soy un gran entusiasta de los **Videojuegos** 🎮 y la **Música** 🎧.
 
   <br>
-  <br>
 
   ### 🛠️ Mi Stack Tecnológico
 
   **Lenguajes y Herramientas que domino:**
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,mongodb,django,angular,astro,arduino,vscode,linux,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,django,fastapi,mysql,mongodb,angular,astro,arduino,vscode,linux,github,postman&theme=light" />
   </a>
 
   <br>
