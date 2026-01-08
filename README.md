@@ -34,7 +34,7 @@
   <br>
   <br>
 
-  <img src="https://github.com/user-attachments/assets/519e59f5-6fbc-4114-95a4-fb52fa1ea69a" width="100%">
+  <img src="https://github.com/user-attachments/assets/519e59f5-6fbc-4114-95a4-fb52fa1ea69a" width="600">
   <br>
   <sub><i>"No crying until the end."</i></sub>
 
