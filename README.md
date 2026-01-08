@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4C00&height=200&section=header&text=Hola,%20Soy%20Thomas%20👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20Informática%20•%20Web%20Dev%20•%20IoT%20•%20Game%20Dev&descAlignY=60&descAlign=62&v=ff4c00_fixed"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4C00&height=200&section=header&text=Hola,%20Soy%20Thomas%20👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Ingeniería%20Informática%20•%20Web%20Dev%20•%20IoT%20•%20Game%20Dev&descAlignY=60&descAlign=62&v=final_mother3"/>
 
   <br>
 
@@ -29,5 +29,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,tailwind,godot,linux,git&theme=light" />
   </a>
+
+  <br>
+  <br>
+  <br>
+
+  <img src="https://64.media.tumblr.com/8210fd413c5ce244674220655354291e/tumblr_n3k6z1304p1rod57oo1_500.gif" width="250">
+  <br>
+  <sub><i>Gracias por pasarte por aquí. ¡PK Love!</i></sub>
 
 </div>
