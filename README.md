@@ -18,7 +18,7 @@
   **Domino / Uso Frecuente:**
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,astro,python,django,fastapi,mysql,mongodb,arduino,postman,vscode,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,astro,python,django,fastapi,mysql,mongodb,arduino,vscode,github&theme=light" />
   </a>
 
   <br>
