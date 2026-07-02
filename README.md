@@ -6,7 +6,7 @@
 
   Me apasiona conectar el código con el mundo real.
   <br>
-  Actualmente enfocado en **Desarrollo Web**, **IoT** y la **IA**.
+  Actualmente enfocado en **Desarrollo Web** e **IoT**
   <br>
   Fuera del código, soy entusiasta de los **Videojuegos** 🎮 y la **Música** 🎧.
 
